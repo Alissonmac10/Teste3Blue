@@ -1,0 +1,9 @@
+testesFormulario\formularioPage.class
+testesSite\siteTeste.class
+testesCampoBusca\buscaPage.class
+testesBotaoExcluir\excluirTeste.class
+br\com\bluesoft\TesteQaApplicationTests.class
+testesBotaoExcluir\excluirPage.class
+testesSite\sitePage.class
+testesCampoBusca\buscaTeste.class
+testesFormulario\formularioTeste.class
