@@ -47,6 +47,6 @@ Projeto base para testes de automatização.
 ### Criador: 
 |Nome|E-MAIL|
 | -------- | -------- | 
-|[Alisson Macedo](https://www.linkedin.com/in/alisson-macedo-629612262/) |alissonmm61@gmail.com|
+|[Alisson Macedo](https://www.linkedin.com/in/alisson-macedo-629612262/) |alissonmacedoabc123@gmail.com|
 
 
